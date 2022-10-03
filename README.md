@@ -1,0 +1,1 @@
+This project will serve to demonstrate new skills in html, including lists, links, and general structuring.
